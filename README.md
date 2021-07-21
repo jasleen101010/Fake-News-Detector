@@ -1,4 +1,4 @@
-<h1>Hi there 👋🏻</h1> <br />
+<h1>Fake News Detector </h1><br />
 Thanks for checking out this project! <br />&nbsp;
 
 Check out the steps for creating this project- <br />
